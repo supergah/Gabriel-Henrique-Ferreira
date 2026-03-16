@@ -9,7 +9,7 @@ Calouro na Unifil em Engenharia de Software
 ### 🚀 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,php,mysql,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=html,css,vscode," />
 </p>
 
 ---
@@ -28,4 +28,4 @@ Calouro na Unifil em Engenharia de Software
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://github.com/supergah))
 
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://github.com/supergah)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/henrique.gabss/)
