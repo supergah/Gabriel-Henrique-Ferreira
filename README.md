@@ -1,13 +1,31 @@
-**Sobre mim:**
+<h1 align="center">Hi 👋, E ai, eu sou o Gabriel Henrique!</h1>
 
-  - 22 Anos;
-  - Calouro em Engenharia de Software na UniFil Londrina.
-  - Tecnico de TI Junior na empresa Grupo RFK (Refriko)
-    
-**Conhecimentos:**
-  - Azure AD
-  - Microsoft 365
-  - Conhecimento avançado em Pacote Google (Gmail, Planilhas, Docs...)
-  - Microsoft 365 Workspace (licenças 365, Microsoft admin, Microsoft Entra)
-  - Sistema Mercanet
-  - Sistema Totvs (Protheus)
+<p align="center">
+Calouro na Unifil em Engenharia de Software
+</p>
+
+---
+
+### 🚀 Tecnologias
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,php,mysql,vscode,androidstudio" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://github.com/supergah))
+
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://github.com/supergah)
