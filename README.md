@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, E ai, eu sou o Gabriel Henrique!</h1>
+<h1 align="center">E ai👋, eu sou o Gabriel Henrique!</h1>
 
 <p align="center">
 Calouro na Unifil em Engenharia de Software
