@@ -1,7 +1,7 @@
-<h1 align="center">E ai👋, **eu sou o Gabriel Henrique**!</h1>
+<h1 align="center">E ai👋, eu sou o Gabriel Henrique!</h1>
 
 <p align="center">
-Calouro na Unifil em Engenharia de Software
+**Calouro na Unifil em Engenharia de Software**
 </p>
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
